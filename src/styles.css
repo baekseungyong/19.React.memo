@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.gray-box {
+  background: gray;
+  width: 64px;
+  height: 64px;
+}
